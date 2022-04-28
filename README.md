@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=liborui&style=for-the-badge&label=HOW+MANY+PEOPLE+VIEW+ME)
 
 <!--
 **liborui/liborui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
