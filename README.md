@@ -1,6 +1,7 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=liborui&style=for-the-badge&label=HOW+MANY+PEOPLE+VIEW+ME)
-
+![](https://komarev.com/ghpvc/?username=liborui&style=for-the-badge&color=yellowgreen&label=HOW+MANY+PEOPLE+VIEW+ME)
+- 🔭 I’m currently working on WebAssembly and related technologies.
+- See [my website](https://liborui.github.io) for detail!
 <!--
 **liborui/liborui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
